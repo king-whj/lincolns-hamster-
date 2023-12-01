@@ -1,0 +1,30 @@
+{
+    "name": "lincolns hamster ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "servo": "*",
+        "colorbit": "github:51bit/colorbit#v0.1.4",
+        "pxt-cutebotpro": "github:elecfreaks/pxt-cutebot-pro#v1.0.55"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "pxt.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.22",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
